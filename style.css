@@ -1,0 +1,92 @@
+
+h1{
+    margin: 0;
+    border: solid 1px;
+    width: 170px;
+    height: 35px;
+    align-items: center;
+    margin: 2px auto;
+    
+}
+
+h2, h3{
+    margin: 6px 2px;
+
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.span{
+    color: rgb(255, 132, 0);
+}
+.marco{
+    background-color: rgb(223, 240, 255);
+    width: 400px;
+    height: 202px;
+    border: solid 1px;
+    border-radius: 5px;
+
+}
+
+.telefono{
+    margin-top: 20px;
+    color: blue;
+}
+
+.web{
+    margin: 10px auto;
+}
+
+.span__telefono:hover{
+    color: rgb(24, 22, 22);
+    font-size: 25px;
+    pointer-events: stroke;
+    
+}
+
+
+.boton{
+    color:white;
+    padding: 5px;
+    
+    margin-top: 15px;
+    border: solid 1px;
+    width: 90px;
+    height: 20px;
+    text-align: center;
+    background-color: rgb(178, 130, 8);
+    
+}
+
+.irAcalculadora{
+    margin: 20px auto;
+}
+
+.tarjeta{
+    margin: 20px auto;
+}
+.nombre{
+    text-transform: uppercase;
+    margin-top: 25px;
+    font-weight: 700;
+
+}
+
+.calculadora{
+    margin-top: 10px;
+}
+
+.botones{
+    margin-top: 10px;
+}
+
+.hover__botton:hover{
+    color: rgb(206, 118, 4);
+    font-size: 20px;
+    background-color:rgb(186, 244, 225) ;
+    border: solid 1px;
+}
